@@ -1,0 +1,18 @@
+:root {
+  --color-lightBlue: #2ACCC2;
+  --color-darkBlue: #26333D;
+  --color-blue: #4A67DF;
+  --color-blue2: #248dad;
+}
+
+.active-link {
+  background-color:var(--color-blue);
+  color: white !important ; 
+}
+
+#container-ajuda {
+  padding: 40px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+ 
+}
